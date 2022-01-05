@@ -3,6 +3,7 @@ h1{
     font-stretch: expanded;
     font-weight: 500;
     font-family: 'Yeseva One', cursive;
+    padding-left: 7px;
 }
 p{
     text-align: justify;
