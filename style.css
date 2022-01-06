@@ -16,7 +16,7 @@ p{
 }
 .two-columns img{
     width: 60%;
-    padding-left: 20px;
+    padding-left: 40px;
 }
 .h1-text-color{
     color: rgb(49, 185, 49);
@@ -32,7 +32,7 @@ p{
     font-family: 'Yeseva One', cursive;
     padding-left: 7px;
 }
-#first-section-h3{
+.first-section-h3{
     font-weight: 600;
     font-size: small;
 }
@@ -92,6 +92,7 @@ h3{
 
 #third-section{
     display: flex;
+    margin-bottom: 70px;
 }
 
 .two-columns-partition{
@@ -99,17 +100,32 @@ h3{
 }
 .two-columns-partition img{
     width: 50%;
-    margin-left: 195px;
+    margin-left: 200px;
 }
 #third-section-h1{
     font-size: 36px;
     margin-left: -90px;
 }
-#third-section-h3{
+#third-section-p{
     margin-left: -90px;
     margin-right: 230px;
 
 }
 #third-section-button{
     margin-left: -120px;
+}
+#forth-section{
+    display: flex;
+    margin-bottom: 70px;
+}
+#forth-section-h1{
+    font-size: 36px;
+    margin-left: 195px
+}
+#forth-section-p{
+    margin-left: 195px;
+    padding-right: 70px;
+}
+#forth-section-button{
+    margin-left: 165px;
 }
